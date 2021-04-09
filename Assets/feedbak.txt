@@ -1,0 +1,4 @@
+välja riktningar i rad på varandra istället för trycka på var ruta för sig själv -- DONE
+
+någon typ av grid på bana för att se möjligheter på riktningar -- DONE
+
